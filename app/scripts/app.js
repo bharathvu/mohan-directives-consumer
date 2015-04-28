@@ -8,5 +8,4 @@
  *
  * Main module of the application.
  */
-angular
-  .module('ekConsumerApp', ['mohan-directives']);
+angular.module('ekConsumerApp', ['mohan-directives']);
